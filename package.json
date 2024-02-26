@@ -1,0 +1,22 @@
+{
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "init": "^0.1.2",
+    "nodemon": "^3.1.0",
+    "stripe": "^14.18.0"
+  },
+  "name": "current_project_js",
+  "version": "1.0.0",
+  "main": "store.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tara G P",
+  "license": "ISC",
+  "description": ""
+}
